@@ -66,4 +66,4 @@ if __name__ == '__main__':
 ```
 
 
-此时当前目录会生成`douban250.txt`，具体见[douban_page_by_spider.py](../examples/douban_page_by_spider.py)。
+此时当前目录会生成`douban250.txt`。
