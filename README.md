@@ -49,7 +49,6 @@ if __name__ == '__main__':
     pprint(item_data)
 ```
 
-具体见[qidian_details_by_item.py](./examples/qidian_details_by_item.py)
 
 ##### 2.1.1.单页面多目标
 
@@ -83,8 +82,6 @@ if __name__ == '__main__':
         })
     pprint(result)
 ```
-
-具体见[douban_page_by_item.py](./examples/douban_page_by_item.py)
 
 #### 2.2.spider
 
